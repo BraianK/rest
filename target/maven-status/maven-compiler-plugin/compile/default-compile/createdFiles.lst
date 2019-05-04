@@ -1,0 +1,8 @@
+domain\Actor.class
+domain\Movie.class
+services\MovieService.class
+domain\MovieComment.class
+resources\ApplicationConfig.class
+resources\ActorResources.class
+resources\MovieResources.class
+services\ActorService.class
